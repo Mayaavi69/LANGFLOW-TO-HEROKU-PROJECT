@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "langflow-chat": "^1.0.22"
+  }
+}
